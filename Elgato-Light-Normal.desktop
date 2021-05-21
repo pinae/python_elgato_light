@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Standard-Setting: Elgato Ring Light
+Comment=Activates the light with a comfortable setting
+Exec=/home/pina/Code/python_elgato_light/standard_setting.sh
+Icon=/home/pina/Code/python_elgato_light/local.pina.elgato_light_normal.svg
+Terminal=false

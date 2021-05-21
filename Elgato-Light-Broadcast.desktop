@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Broadcast-Setting: Elgato Ring Light
+Comment=Activates the light with a bright setting
+Exec=/home/pina/Code/python_elgato_light/broadcast_setting.sh
+Icon=/home/pina/Code/python_elgato_light/local.pina.elgato_light_broadcast.svg
+Terminal=false
