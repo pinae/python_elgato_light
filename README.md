@@ -29,7 +29,7 @@ python standard_setting.py
 
 The `broadcast_setting.py` prints some additional information like this:
 
-```json
+```plaintext
 Elgato Light DW50J1A10436 @ 192.168.178.31:9123
 {
  'address': '192.168.178.31', 
